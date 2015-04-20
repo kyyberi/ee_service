@@ -3,7 +3,7 @@
         "Tüüp": {
             "@type": "CPSV:CompanyType",
             "@value": "viranomainen"
-        }
+        },
         "JurID": {
             "@type": "CPSV:LegalIdentifier",
             "@value": "https://www.ytj.fi/yritystiedot.aspx?yavain=673390&tarkiste=576BCF5807F8C97DED349045F371499544F6CEA3&path=1547;1631;1678"
