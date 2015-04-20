@@ -2,23 +2,23 @@
     {
         "Tüüp": {
             "@type": "CPSV:CompanyType",
-            "@value": "https://riha.eesti.ee/riha/main/kla/esa_institutsionaalsete_sektorite_s_eesti_jaoks_kohandatud_klassifikaator_2010/S.13111"
-        },
+            "@value": "viranomainen"
+        ,}
         "JurID": {
             "@type": "CPSV:LegalIdentifier",
-            "@value": "http://register.fin.ee/RKOAR/70006317"
+            "@value": "https://www.ytj.fi/yritystiedot.aspx?yavain=673390&tarkiste=576BCF5807F8C97DED349045F371499544F6CEA3&path=1547;1631;1678"
         },
         "JurNimi": {
             "@type": "CPSV:LegalName",
-            "@value": "Riigi Infosüsteemi Amet"
+            "@value": "Opetushallitus"
         },
         "@context": {
             "CPSV": "http://joinup.ec.europa.eu/site/core_vocabularies/Core_Vocabularies_v1.1/LegalEntity"
         },
-        "@id": "http://register.fin.ee/RKOAR/70006317",
+        "@id": "https://www.ytj.fi/yritystiedot.aspx?yavain=673390&tarkiste=576BCF5807F8C97DED349045F371499544F6CEA3&path=1547;1631;1678",
         "IngliskeelneNimi": {
             "@type": "CPSV:AlternativeName",
-            "@value": "State Information Agency"
+            "@value": "Utbildningsstyrelsen"
         }
     },
     {
